@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Quran.jpg" alt="Quran Logo" width="200"/>
+  <img src="Quran.jpg" alt="Quran Logo"/>
 </p>
 
 # Quran JSON with Complete Translation
