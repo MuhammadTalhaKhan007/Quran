@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Quran.png" alt="Quran Logo" width="200"/>
+</p>
+
 # Quran JSON with Complete Translation
 
 This repository contains the **Quran in JSON format**, including the **complete translation**, created in collaboration with **Jamia Ashrafia**.
